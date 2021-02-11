@@ -1,0 +1,3 @@
+[submodule "guess-my-number"]
+	path = guess-my-number
+	url = https://github.com/carbonsoda/guess-my-number.git
