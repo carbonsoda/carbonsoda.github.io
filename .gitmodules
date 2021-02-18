@@ -1,3 +1,6 @@
 [submodule "guess-my-number"]
 	path = guess-my-number
 	url = https://github.com/carbonsoda/guess-my-number.git
+[submodule "eventonica"]
+	path = eventonica
+	url = https://github.com/carbonsoda/eventonica.git
